@@ -1,7 +1,5 @@
 {
-  "name": "drelor",
-  "private": true,
-  "description": "Dr. Guy Elor - Neurosurgeon",
+  "name": "goof-submodules",
   "version": "1.0.0",
   "author": "Idan Elor - idanelor@gmail.com",
   "dependencies": {
