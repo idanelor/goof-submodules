@@ -1,0 +1,4 @@
+[submodule "serverless-spring-goof"]
+	path = serverless-spring-goof
+	url = git@github.com:idanelor/serverless-spring-goof.git
+	branch = master
